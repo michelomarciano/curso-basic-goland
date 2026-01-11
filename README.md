@@ -20,6 +20,7 @@ Este guia está organizado em arquivos separados para facilitar a navegação. C
 
 | Tópico | Arquivo | Descrição |
 |--------|---------|-----------|
+| **Estruturas de Controle** | [README_ESTRUTURAS_CONTROLE.md](docs/README_ESTRUTURAS_CONTROLE.md) | If/Else e Switch - tomada de decisões |
 | **Loops** | [README_LOOPS.md](docs/README_LOOPS.md) | For, While, Range, Break, Continue |
 | **Switch** | [README_SWITCH.md](docs/README_SWITCH.md) | Estruturas de decisão múltipla |
 | **Operadores** | [README_OPERADORES.md](docs/README_OPERADORES.md) | Aritméticos, Relacionais, Lógicos, Unários |
@@ -47,7 +48,7 @@ Este guia está organizado em arquivos separados para facilitar a navegação. C
 ### 📋 Lista Rápida (Links Diretos)
 
 - [Array](docs/README_ARRAY.md) | [Slice](docs/README_SLICE.md) | [Variáveis](docs/README_VARIAVEIS.md) | [Constantes](docs/README_CONSTANTE.md)
-- [Tipos de Dados](docs/README_TIPOS_DE_DADOS.md) | [Loops](docs/README_LOOPS.md) | [Switch](docs/README_SWITCH.md) | [Operadores](docs/README_OPERADORES.md)
+- [Tipos de Dados](docs/README_TIPOS_DE_DADOS.md) | [Estruturas de Controle](docs/README_ESTRUTURAS_CONTROLE.md) | [Loops](docs/README_LOOPS.md) | [Switch](docs/README_SWITCH.md) | [Operadores](docs/README_OPERADORES.md)
 - [Funções](docs/README_FUNCOES.md) | [Métodos](docs/README_METODOS.md) | [Structs](docs/README_STRUCTS.md) | [Herança](docs/README_HERANCA.md)
 - [Ponteiros](docs/README_PONTEIRO.md) | [JSON](docs/README_JSON.md) | [Módulo](docs/README_MODULO.md) | [Pacotes](docs/README_PACOTES.md) | [Modificador de Acesso](docs/README_MODIFICADOR_DE_ACESSO.md)
 - [Rodar Projeto](docs/README_RODAR_PROJETO.md)
@@ -55,7 +56,7 @@ Este guia está organizado em arquivos separados para facilitar a navegação. C
 ## 🚀 Como Usar Este Guia
 
 1. **Iniciantes**: Comece pelos fundamentos (Array, Variáveis, Tipos de Dados)
-2. **Estruturas de Controle**: Aprenda Loops e Switch para controlar o fluxo do programa
+2. **Estruturas de Controle**: Aprenda If/Else, Switch e Loops para controlar o fluxo do programa
 3. **Funções e Métodos**: Entenda como criar funções e métodos em Go, incluindo value receivers e pointer receivers
 4. **Estruturas Avançadas**: Explore Structs, Herança e Ponteiros
 5. **Organização**: Aprenda sobre Módulos, Pacotes e como rodar projetos
